@@ -17,11 +17,6 @@
     "process-management",
     "mcp-tool-routing"
   ],
-  "files": [
-    "dist/cli.js",
-    "LICENSE.md",
-    "README.md"
-  ],
   "type": "module",
   "main": "./dist/cli.js",
   "bin": {
